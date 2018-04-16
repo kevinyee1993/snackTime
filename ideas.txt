@@ -1,5 +1,11 @@
 TODO:
 
+General Design
+*  Make player a line and not a square
+*  Fall block movement is smooth and continuous right now, want to make it
+   more choppy like tetris movement
+
+
 *  Have score multiply with streaks
 *  Increase lives if player gets a really big streak (50 in a row for example)
 *  Power meter that goes up when you collect squares
