@@ -16,3 +16,8 @@ as level increases:
 * falling squares speed up as score goes up
 * troll squares that miss a beat
 * troll squares that alternate colors as they fall
+
+
+IF WANT TO MAKE THE FALL BLOCKS FALL MORE SMOOTHLY
+  * Change the fall increment to a smaller value
+  * Increase the interval by a lot more
