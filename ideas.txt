@@ -1,0 +1,12 @@
+TODO:
+
+*  Have score multiply with streaks
+*  Increase lives if player gets a really big streak (50 in a row for example)
+*  Power meter that goes up when you collect squares
+    * press space to activate - for limited time player can grab any color square
+
+
+as level increases:
+* falling squares speed up as score goes up
+* troll squares that miss a beat
+* troll squares that alternate colors as they fall
