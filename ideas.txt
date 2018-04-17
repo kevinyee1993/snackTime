@@ -21,3 +21,15 @@ as level increases:
 IF WANT TO MAKE THE FALL BLOCKS FALL MORE SMOOTHLY
   * Change the fall increment to a smaller value
   * Increase the interval by a lot more
+
+dog - bone
+monkey - banana
+cat - fish
+
+lives: right now is numbers but later can make them graphics or something like 3 hearts
+
+NOTE:
+looks like the blocks are only caught if the fall speed is even
+for all three blocks if using 3, interval of 2 works
+
+for blocks 1 and 3, interval of 2, 2.5, and 4 work
