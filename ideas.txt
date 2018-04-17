@@ -33,3 +33,7 @@ looks like the blocks are only caught if the fall speed is even
 for all three blocks if using 3, interval of 2 works
 
 for blocks 1 and 3, interval of 2, 2.5, and 4 work
+
+Might not need bone to touch all the way at the bottom, could just add some type of border
+at the line where the bone touches and make that the endpoint
+if you make the food touch all the way at the bottom it might look weird because it should disappear as soon as the animal eats it
