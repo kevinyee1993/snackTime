@@ -44,3 +44,7 @@ make game over screen
 make pause button/how to
 make background
 draw out hearts instead of life counter
+add a guide at the bottom of the screen that shows what key corresponds to what animal
+
+for the how to play, can just have a screen at the beginning like a game over screen that
+explains everything and you can click to continue
