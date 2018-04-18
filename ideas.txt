@@ -22,11 +22,6 @@ IF WANT TO MAKE THE FALL BLOCKS FALL MORE SMOOTHLY
   * Change the fall increment to a smaller value
   * Increase the interval by a lot more
 
-dog - bone
-monkey - banana
-cat - fish
-
-lives: right now is numbers but later can make them graphics or something like 3 hearts
 
 NOTE:
 looks like the blocks are only caught if the fall speed is even
@@ -40,10 +35,11 @@ if you make the food touch all the way at the bottom it might look weird because
 
 
 FOR TOMORROW WEDNESDAY
-make game over screen
+make game over screen - DONE
+make background - DONE
+draw out hearts instead of life counter - DONE
+
 make pause button/how to
-make background
-draw out hearts instead of life counter
 add a guide at the bottom of the screen that shows what key corresponds to what animal
 
 for the how to play, can just have a screen at the beginning like a game over screen that
