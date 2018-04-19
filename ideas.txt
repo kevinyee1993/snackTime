@@ -33,7 +33,7 @@ FOR TOMORROW THURSDAY
 add sounds for different actions - DONE
 write instructions on index rather than canvas - DONE
 
-change up right facing sprites by moving them a little more to the left to see if itll improve  how they look when catching food
+change up right facing sprites by moving them a little more to the left to see if itll improve  how they look when catching food - DONE
 
 allow the users to either click or press a button to start the game
 add mute button
