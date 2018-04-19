@@ -30,6 +30,7 @@
 
 .instructions li {
   margin-bottom: 20px;
+  list-style-type: none;
 }
 
 canvas {
