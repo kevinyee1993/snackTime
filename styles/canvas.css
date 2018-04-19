@@ -5,14 +5,39 @@
   background-color: #fffded;
 }
 
+.main-section {
+  display: flex;
+  margin-top: 20px;
+}
+
 .game-title {
   display: flex;
   justify-content: center;
 }
 
+.instructions {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.instruct-heading {
+  margin-bottom: 20px;
+}
+
+.instructions li {
+  margin-bottom: 20px;
+}
+
 canvas {
   background: #eee;
   display: block;
-  margin: 0 auto;
+  margin-left: 70px;
+  /* margin: 0 auto; */
+  /* margin-left: 33%; */
+  /* margin-left: 300px; */
   border: 2px solid black;
+  /* position: absolute; */
 }
