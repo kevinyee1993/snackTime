@@ -1,11 +1,6 @@
 TODO:
 
 General Design
-*  Make player a line and not a square
-*  Fall block movement is smooth and continuous right now, want to make it
-   more choppy like tetris movement
-
-
 *  Have score multiply with streaks
 *  Increase lives if player gets a really big streak (50 in a row for example)
 *  Power meter that goes up when you collect squares
@@ -38,9 +33,9 @@ FOR TOMORROW WEDNESDAY
 make game over screen - DONE
 make background - DONE
 draw out hearts instead of life counter - DONE
+add a guide at the bottom of the screen that shows what key corresponds to what animal - DONE
 
 make pause button/how to
-add a guide at the bottom of the screen that shows what key corresponds to what animal
 
 for the how to play, can just have a screen at the beginning like a game over screen that
 explains everything and you can click to continue
