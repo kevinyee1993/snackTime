@@ -30,9 +30,12 @@ if you make the food touch all the way at the bottom it might look weird because
 
 
 FOR TOMORROW THURSDAY
-write instructions on index rather than canvas
+add sounds for different actions - DONE
+write instructions on index rather than canvas - DONE
+
+change up right facing sprites by moving them a little more to the left to see if itll improve  how they look when catching food
+
 allow the users to either click or press a button to start the game
-add sounds for different actions
 add mute button
 add linkedin and github links at bottom
 style html/add title at top
