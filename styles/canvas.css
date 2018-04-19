@@ -34,7 +34,8 @@
 }
 
 canvas {
-  background: #eee;
+  /* background: #eee; */
+  background: white;
   display: block;
   margin-left: 70px;
   border: 2px solid black;
