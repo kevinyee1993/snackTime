@@ -29,7 +29,17 @@ at the line where the bone touches and make that the endpoint
 if you make the food touch all the way at the bottom it might look weird because it should disappear as soon as the animal eats it
 
 
-FOR TOMORROW WEDNESDAY
+FOR TOMORROW THURSDAY
+write instructions on index rather than canvas
+allow the users to either click or press a button to start the game
+add sounds for different actions
+add mute button
+add linkedin and github links at bottom
+style html/add title at top
+
+
+
+ALREADY PASSED WEDNESDAY STUFF
 make game over screen - DONE
 make background - DONE
 draw out hearts instead of life counter - DONE
