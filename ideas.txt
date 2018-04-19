@@ -37,7 +37,7 @@ add linkedin and github links at bottom - DONE
 style html/add title at top - DONE
 
 
-allow the users to either click or press a button to start the game
+allow the users to either click or press a button to start the game - DONE
 add mute button
 
 
