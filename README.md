@@ -1,7 +1,7 @@
 # snackTime
 
 [Live Version]()
-![Imgur](https://i.imgur.com/yXWoyPl.gif)
+![Imgur](https://imgur.com/yXWoyPl.gif)
 
 
 # Description
