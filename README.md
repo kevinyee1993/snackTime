@@ -1,6 +1,6 @@
 # snackTime
 
-![Imgur](https://i.imgur.com/95o4a4M.gifv)
+![Imgur](https://i.imgur.com/95o4a4M.gif)
 
 
 # Description
