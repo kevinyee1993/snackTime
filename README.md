@@ -1,10 +1,12 @@
 # snackTime
 
-[Live Version]()
 ![Imgur](https://imgur.com/yXWoyPl.gif)
+
+[Live Version](https://kevinyee1993.github.io/snackTime/)
 
 
 # Description
+
 SnackTime is an original game created by me in which a player controls a character that can change into either a dog, cat, monkey, or rabbit.  The goal of this game is to catch falling food items with the correct animal.  If the player fails to catch the food before it hits the floor or if they catch certain foods with the wrong animal, then they lose a life.  Once they run out of lives, the game is over.
 
 [Wiki design documents](https://github.com/kevinyee1993/genius/wiki)
@@ -15,6 +17,9 @@ SnackTime is an original game created by me in which a player controls a charact
 The player is able to control the animal character using the left and right cursor keys.  They can start/reset the game using the space key.  They can also mute/unmute the game by pressing "M".
 ### Animated Sprites
 The animal sprites are animated.  Also, depending on what direction the player moves, the animal faces that way.
+
+![Imgur](https://i.imgur.com/q6fWq7A.gif)![Imgur](https://i.imgur.com/Z6C58nQ.gif)![Imgur](https://i.imgur.com/qQZgvJi.gif)
+![Imgur](https://i.imgur.com/yah7BrY.gif)
 ### Scoring System
 Players increase their score when they successfully catch food.  
 ### Sound Effects
@@ -48,3 +53,4 @@ Webpack was used to bundle up and export all the files in the program.
 * A level system rather than just increasing the amount of food that drops
 * Hearts that drop that players can collect to increase their lives
 * Possibly a system where if a player collects a certain amount of fruit in a row, they get an extra life
+* Add a backend that keeps track of high scores
