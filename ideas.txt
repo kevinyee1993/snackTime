@@ -40,8 +40,8 @@ style html/add title at top - DONE
 allow the users to either click or press a button to start the game - DONE
 AFTER GAME OVER NOW PICTURES DONT SHOW UP - DONE
 
-add mute button - KINDA DONE
-ADD INDICATOR THAT GAME IS MUTED
+add mute button - DONE
+ADD INDICATOR THAT GAME IS MUTED - DONE
 
 
 
