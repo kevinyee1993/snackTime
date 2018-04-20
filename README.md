@@ -1,7 +1,7 @@
 # snackTime
 
 [Live Version]()
-![Imgur](https://i.imgur.com/95o4a4M.gif)
+![Imgur](https://i.imgur.com/yXWoyPl.gif)
 
 
 # Description
@@ -16,7 +16,7 @@ The player is able to control the animal character using the left and right curs
 ### Animated Sprites
 The animal sprites are animated.  Also, depending on what direction the player moves, the animal faces that way.
 ### Scoring System
-Users increase their score when they successfully catch food.  
+Players increase their score when they successfully catch food.  
 ### Sound Effects
 There are sound effects for when the player successfully catches food, when the player misses food, when the player ends the game with a bad score, and when the player ends the game with a good score. All sounds were taken from [zapsplat.com](https://www.zapsplat.com/).
 
